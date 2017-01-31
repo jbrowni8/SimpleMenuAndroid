@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="1476304143928726000"
+    token="920033748285787575"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="405" />
+    <task
+        name="instant-run-dex"
+        duration="41" />
+    <task
+        name="instant-run-transform"
+        duration="68" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment3/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="1476247020304799000"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment3/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1476302159736179000"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment3/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="1476302249646423000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment3/app/build/intermediates/builds/debug/1476302249646423000/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1476302405260767000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment3/app/build/intermediates/builds/debug/1476302405260767000/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1476302435305587000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment3/app/build/intermediates/builds/debug/1476302435305587000/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1476302631595776000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment3/app/build/intermediates/builds/debug/1476302631595776000/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1476302690622506000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment3/app/build/intermediates/builds/debug/1476302690622506000/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1476304028103565000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment3/app/build/intermediates/builds/debug/1476304028103565000/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1476304073789293000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment3/app/build/intermediates/builds/debug/1476304073789293000/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1476304143928726000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment3/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
